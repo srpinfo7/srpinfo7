@@ -1,16 +1,34 @@
-## Hi there 👋
+# Sameer Ranjan Panda
 
-<!--
-**srpinfo7/srpinfo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior SDET / QA Automation Engineer
 
-Here are some ideas to get you started:
+Technical Lead at HCLTech with 5+ years of experience in test automation, UI/API testing and backend data validation. I build maintainable automation frameworks that help teams get reliable feedback faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/sameer-ranjan-panda/)
+
+## Engineering impact
+
+- Built a Playwright framework from scratch with TypeScript and the Page Object Model.
+- Automated 300+ UI/API test scripts.
+- Reduced regression execution from 40 hours to approximately 100 minutes.
+- Integrated automated tests into Jenkins CI/CD.
+- Validated data across PostgreSQL, SQL Server, Oracle and MySQL.
+
+## Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| UI automation | Playwright, Selenium WebDriver, Page Object Model |
+| Languages | TypeScript, Java, SQL |
+| API testing | Postman, UI/API automation |
+| Delivery | Jenkins, Git, CI/CD, Agile |
+| Databases | PostgreSQL, SQL Server, Oracle, MySQL |
+| Platforms | AWS, Amazon EKS, SAP CX/CRM |
+
+## Certification
+
+AWS Certified Cloud Practitioner (CLF-C02) — June 2026
+
+## Current interests
+
+I use ChatGPT, Claude, GitHub Copilot and Gemini to support test design, debugging and automation development. I am currently exploring agentic AI-based testing.
